@@ -1,0 +1,6 @@
+# SYNTHETIC handwritten five-record example
+{"created": "2026-09-01", "id": "a", "kind": "idea", "status": "inbox", "synthetic": true, "title": "Synthetic planner idea"}
+{"created": "2026-09-01", "due": "2026-09-20", "id": "b", "kind": "task", "status": "active", "synthetic": true, "title": "Synthetic application"}
+{"created": "2026-09-01", "id": "c", "kind": "message", "status": "inbox", "synthetic": true, "title": "Synthetic reply"}
+{"created": "2026-09-01", "id": "d", "kind": "file", "path": "C:\\Synthetic\\CV.pdf", "status": "archived", "synthetic": true, "title": "Synthetic CV reference"}
+{"created": "2026-09-01", "due": "2026-09-02", "id": "e", "kind": "task", "status": "done", "synthetic": true, "title": "Synthetic completed homework"}
